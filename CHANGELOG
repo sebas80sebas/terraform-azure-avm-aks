@@ -1,0 +1,9 @@
+# Changelog
+
+## [1.0.0]
+
+> **Initial** : First version of module from https://github.com/Azure/terraform-azurerm-avm-res-containerservice-managedcluster/tree/v0.3.3
+
+## [1.1.0]
+
+> **New version** : Update module version to align with AVM https://github.com/Azure/terraform-azurerm-avm-res-containerservice-managedcluster/tree/v0.8.3
